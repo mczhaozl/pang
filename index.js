@@ -1,4 +1,9 @@
-export default function (){
-            // undo
-            console.log('hello world i am pang');
+"use strict";
+
+function Pang() {
+  // undo
+  console.log('hello world i am pang');
 }
+module.exports = {
+  Pang: Pang
+};
