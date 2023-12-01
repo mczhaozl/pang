@@ -7,6 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "fuck": "node ./fuck.js"
   },
+  "bin":{
+    "fuck":"./fuck.js"
+  },
   "author": "",
   "license": "ISC"
 }

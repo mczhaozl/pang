@@ -1,2 +1,3 @@
+#!/usr/bin/env node
         // undo
-        console.log('fuck');
+        console.log('fuck you');
